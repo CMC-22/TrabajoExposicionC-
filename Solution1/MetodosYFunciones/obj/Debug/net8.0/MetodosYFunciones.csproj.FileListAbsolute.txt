@@ -1,0 +1,15 @@
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\bin\Debug\net8.0\MetodosYFunciones.exe
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\bin\Debug\net8.0\MetodosYFunciones.deps.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\bin\Debug\net8.0\MetodosYFunciones.runtimeconfig.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\bin\Debug\net8.0\MetodosYFunciones.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\bin\Debug\net8.0\MetodosYFunciones.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.AssemblyInfoInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.AssemblyInfo.cs
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.sourcelink.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\refint\MetodosYFunciones.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\MetodosYFunciones.genruntimeconfig.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\MetodosYFunciones\obj\Debug\net8.0\ref\MetodosYFunciones.dll

@@ -1,0 +1,15 @@
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.AssemblyInfoInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.AssemblyInfo.cs
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.sourcelink.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\bin\Debug\net8.0\AtributosYMetodos.exe
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\bin\Debug\net8.0\AtributosYMetodos.deps.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\bin\Debug\net8.0\AtributosYMetodos.runtimeconfig.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\bin\Debug\net8.0\AtributosYMetodos.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\bin\Debug\net8.0\AtributosYMetodos.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\refint\AtributosYMetodos.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\AtributosYMetodos.genruntimeconfig.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\AtributosYMetodos\obj\Debug\net8.0\ref\AtributosYMetodos.dll

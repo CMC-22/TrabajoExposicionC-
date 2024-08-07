@@ -12,3 +12,4 @@ C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Cla
 C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Clases\obj\Debug\net8.0\Clases.pdb
 C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Clases\obj\Debug\net8.0\Clases.genruntimeconfig.cache
 C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Clases\obj\Debug\net8.0\ref\Clases.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Clases\obj\Debug\net8.0\Clases.sourcelink.json

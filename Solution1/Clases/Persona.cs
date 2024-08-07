@@ -34,7 +34,7 @@
         static void Main(string[] args)
         {
 
-            Persona persona1 = new Persona("Carolina Martinez", 16, "Campoalegre");
+            Persona persona1 = new Persona("Carolina Martinez", 19, "Campoalegre");
 
             persona1.MostrarInformacion();
 

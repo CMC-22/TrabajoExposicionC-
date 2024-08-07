@@ -1,0 +1,15 @@
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\bin\Debug\net8.0\Abstraccion.exe
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\bin\Debug\net8.0\Abstraccion.deps.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\bin\Debug\net8.0\Abstraccion.runtimeconfig.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\bin\Debug\net8.0\Abstraccion.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\bin\Debug\net8.0\Abstraccion.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.AssemblyInfoInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.AssemblyInfo.cs
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.sourcelink.json
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\refint\Abstraccion.dll
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.pdb
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\Abstraccion.genruntimeconfig.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\Abstraccion\obj\Debug\net8.0\ref\Abstraccion.dll
