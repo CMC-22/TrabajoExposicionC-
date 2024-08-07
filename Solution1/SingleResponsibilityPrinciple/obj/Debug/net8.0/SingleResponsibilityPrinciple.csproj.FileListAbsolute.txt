@@ -1,0 +1,5 @@
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\CAROLINA\OneDrive - SENA\Documentos\Trabajo Exposicion C#\Solution1\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.sourcelink.json

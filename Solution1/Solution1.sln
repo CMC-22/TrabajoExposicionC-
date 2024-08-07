@@ -7,17 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases", "Clases\Clases.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{E6CA1848-9DB5-4A5A-9A73-6ECA7E15BEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtributosYMetodos", "AtributosYMetodos\AtributosYMetodos.csproj", "{FD7A46C7-AB11-4031-B4CF-5690B24B7D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtributosYMetodos", "AtributosYMetodos\AtributosYMetodos.csproj", "{FD7A46C7-AB11-4031-B4CF-5690B24B7D5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosYFunciones", "MetodosYFunciones\MetodosYFunciones.csproj", "{0F13F97C-4106-4BC7-B1B1-2D7C02876C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetodosYFunciones", "MetodosYFunciones\MetodosYFunciones.csproj", "{0F13F97C-4106-4BC7-B1B1-2D7C02876C39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncYAwait", "AsyncYAwait\AsyncYAwait.csproj", "{490059D5-3B45-48A7-B936-C1DA5E6A3503}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncYAwait", "AsyncYAwait\AsyncYAwait.csproj", "{490059D5-3B45-48A7-B936-C1DA5E6A3503}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{E3D40B6B-B21F-4B95-91EF-D41BFFFC2A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{E3D40B6B-B21F-4B95-91EF-D41BFFFC2A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencia", "Herencia\Herencia.csproj", "{4E95D69E-A66B-49BE-8C88-5CE42784293D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herencia.csproj", "{4E95D69E-A66B-49BE-8C88-5CE42784293D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{29FD1D1A-A825-4CF3-BFBA-D09508F19440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{29FD1D1A-A825-4CF3-BFBA-D09508F19440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamiento", "Encapsulamiento\Encapsulamiento.csproj", "{44362249-6DDD-4F0A-88CB-0E043A9FF2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{A2B93D11-FED4-4077-A56E-30DDC073D246}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{29FD1D1A-A825-4CF3-BFBA-D09508F19440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29FD1D1A-A825-4CF3-BFBA-D09508F19440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29FD1D1A-A825-4CF3-BFBA-D09508F19440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44362249-6DDD-4F0A-88CB-0E043A9FF2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44362249-6DDD-4F0A-88CB-0E043A9FF2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44362249-6DDD-4F0A-88CB-0E043A9FF2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44362249-6DDD-4F0A-88CB-0E043A9FF2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B93D11-FED4-4077-A56E-30DDC073D246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B93D11-FED4-4077-A56E-30DDC073D246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B93D11-FED4-4077-A56E-30DDC073D246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B93D11-FED4-4077-A56E-30DDC073D246}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
