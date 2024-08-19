@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2A738F42-E44E-42BB-8A81-85F55DA002FD}|Clases\\Clases.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trabajo exposicion c#\\solution1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A738F42-E44E-42BB-8A81-85F55DA002FD}|Clases\\Clases.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2B93D11-FED4-4077-A56E-30DDC073D246}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trabajo exposicion c#\\solution1\\singleresponsibilityprinciple\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B93D11-FED4-4077-A56E-30DDC073D246}|SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj|solutionrelative:singleresponsibilityprinciple\\reporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{FD7A46C7-AB11-4031-B4CF-5690B24B7D5B}|AtributosYMetodos\\AtributosYMetodos.csproj|solutionrelative:atributosymetodos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A738F42-E44E-42BB-8A81-85F55DA002FD}|Clases\\Clases.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trabajo exposicion c#\\solution1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A738F42-E44E-42BB-8A81-85F55DA002FD}|Clases\\Clases.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6CA1848-9DB5-4A5A-9A73-6ECA7E15BEEF}|Interfaces\\Interfaces.csproj|c:\\users\\carolina\\onedrive - sena\\documentos\\trabajo exposicion c#\\solution1\\interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6CA1848-9DB5-4A5A-9A73-6ECA7E15BEEF}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,33 +58,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Reporte.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\SingleResponsibilityPrinciple\\Reporte.cs",
               "RelativeDocumentMoniker": "SingleResponsibilityPrinciple\\Reporte.cs",
               "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\SingleResponsibilityPrinciple\\Reporte.cs",
               "RelativeToolTip": "SingleResponsibilityPrinciple\\Reporte.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T04:21:46.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T04:21:46.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Encapsulamiento\\Persona.cs",
-              "RelativeDocumentMoniker": "Encapsulamiento\\Persona.cs",
-              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Encapsulamiento\\Persona.cs",
-              "RelativeToolTip": "Encapsulamiento\\Persona.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAA5wB8AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T04:07:46.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Forma.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Polimorfismo\\Forma.cs",
               "RelativeDocumentMoniker": "Polimorfismo\\Forma.cs",
@@ -92,12 +78,11 @@
               "RelativeToolTip": "Polimorfismo\\Forma.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAxwC0AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T03:52:28.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-07T03:52:28.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Herencia\\Vehiculo.cs",
               "RelativeDocumentMoniker": "Herencia\\Vehiculo.cs",
@@ -109,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Abstraccion\\Animal.cs",
               "RelativeDocumentMoniker": "Abstraccion\\Animal.cs",
@@ -121,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\AsyncYAwait\\Program.cs",
               "RelativeDocumentMoniker": "AsyncYAwait\\Program.cs",
@@ -133,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\MetodosYFunciones\\Calculadora.cs",
               "RelativeDocumentMoniker": "MetodosYFunciones\\Calculadora.cs",
@@ -145,7 +130,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:38:49.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Encapsulamiento\\Persona.cs",
+              "RelativeDocumentMoniker": "Encapsulamiento\\Persona.cs",
+              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Encapsulamiento\\Persona.cs",
+              "RelativeToolTip": "Encapsulamiento\\Persona.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:07:46.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\AtributosYMetodos\\Persona.cs",
               "RelativeDocumentMoniker": "AtributosYMetodos\\Persona.cs",
@@ -166,18 +176,6 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAowCQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T03:46:06.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Clases\\Persona.cs",
-              "RelativeDocumentMoniker": "Clases\\Persona.cs",
-              "ToolTip": "C:\\Users\\CAROLINA\\OneDrive - SENA\\Documentos\\Trabajo Exposicion C#\\Solution1\\Clases\\Persona.cs",
-              "RelativeToolTip": "Clases\\Persona.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCQAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T03:38:49.52Z"
             }
           ]
         }
